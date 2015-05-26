@@ -1,6 +1,6 @@
-# StaticGen
+# awesome-appengine
 
-[StaticGen.com](http://www.staticgen.com), a leaderboard of top open-source static site generators.
+[awesome-appengine.com](http://www.awesome-appengine.com), a leaderboard of top open-source applications for Google App Engine.
 
 ## Contributing
 
@@ -16,10 +16,10 @@ Make sure to follow the following rules:
 
 ## Running locally
 
-StaticGen is built with Middleman. To install and run locally:
+awesome-appengine is built with Middleman. To install and run locally:
 
-    git clone https://github.com/netlify/staticgen.git
-    cd staticgen
+    git clone https://github.com/netlify/awesome-appengine.git
+    cd awesome-appengine
     bundle install
     bundle exec middleman
 
@@ -36,7 +36,9 @@ Then middleman will use the Gist you specified to archive stats (stars, forks an
 
 ## Netlify
 
-StaticGen is built and maintained by [Netlify](https://www.netlify.com), a hosting and automation service for static websites and apps.
+awesome-appengine is built and maintained by [Netlify](https://www.netlify.com), a hosting and automation service for static websites and apps.
 
 ## License
 This project is licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+## I copied this site template nearly character for character from https://github.com/netlify/staticgen
