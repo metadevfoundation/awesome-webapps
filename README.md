@@ -42,3 +42,7 @@ awesome-appengine is built and maintained by [Netlify](https://www.netlify.com),
 This project is licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 ## I copied this site template nearly character for character from https://github.com/netlify/staticgen
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/metadevfoundation/awesome-webapps/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
